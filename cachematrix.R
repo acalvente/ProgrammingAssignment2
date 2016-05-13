@@ -1,6 +1,6 @@
 ## ---------    Caching the Inverse of a Matrix    ---------
 
-## The following of functions cache the inverse of a matrix.
+## The following functions cache the inverse of a matrix.
 
 ## Function'makeCacheMatrix':
 ##    creates a special "matrix" object
